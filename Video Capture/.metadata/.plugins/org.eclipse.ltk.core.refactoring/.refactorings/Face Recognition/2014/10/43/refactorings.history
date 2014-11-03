@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;Face Recognition&apos;&#x0D;&#x0A;- Original project: &apos;Face Recognition&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     My_Panel.java&#x0D;&#x0A;     processor.java&#x0D;&#x0A;     window.java" description="Delete elements" element1="/src&lt;{processor.java" element2="/src&lt;{window.java" element3="/src&lt;{My_Panel.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1414156880794" subPackages="false" version="1.0"/>
+</session>
